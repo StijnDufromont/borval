@@ -1,0 +1,13 @@
+name = Borval
+description = Custom theme for Borval by Stijn Dufromont
+core = 7.x
+
+; stylesheets
+stylesheets[all][] = css/style.css
+
+; regions
+region[sidebar_first] = Sidebar first
+region[content] = Content
+region[slideshow] = Slideshow
+region[header] = Header
+region[footer] = Footer
